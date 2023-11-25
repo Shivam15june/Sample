@@ -15,7 +15,7 @@ public class Calculation {
 		boolean cond = false;
 		
 		String name ="Shivam";
-		
+		int a=20;
 		
 		
 
