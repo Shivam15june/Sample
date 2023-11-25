@@ -10,6 +10,8 @@ public class Area {
 		int b = 12;
 
 		int area = l * b;
+		
+		System.out.println("Checking");
 
 		System.out.println("The area of the rectangle is =:" + area);
 
